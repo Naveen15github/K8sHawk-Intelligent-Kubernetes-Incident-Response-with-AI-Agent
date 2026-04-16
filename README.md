@@ -1,4 +1,4 @@
-# 🦅 K8sHawk — Intelligent Kubernetes Incident Response with AI Agent
+# 🦅 K8sHawk-Intelligent Kubernetes Incident Response with AI Agent
 
 > **Note:** Unfortunately, the source code files for this project were lost during development. This README documents the complete system as it was built and demonstrated. The architecture, technical decisions, and full working demo are captured here for reference and future reconstruction.
 
