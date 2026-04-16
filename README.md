@@ -6,7 +6,7 @@
 
 ## 📐 Architecture Diagram
 
-![Architecture diagram]()
+![Architecture diagram](https://github.com/Naveen15github/K8sHawk-Intelligent-Kubernetes-Incident-Response-with-AI-Agent/blob/e3c8e98ba50df13dd10b62c7e4193378a42e43e6/Gemini_Generated_Image_mjm71pmjm71pmjm7.png)
 
 
 ---
