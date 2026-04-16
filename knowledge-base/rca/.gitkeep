@@ -1,0 +1,2 @@
+# This file ensures the rca directory is tracked in git
+# RCA markdown files are gitignored but the folder structure is preserved
