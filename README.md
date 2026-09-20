@@ -18,7 +18,7 @@
 1. **Detects** the incident in real time by watching the Kubernetes event stream
 2. **Investigates** the root cause using an AI agent (Groq LLM) that runs actual `kubectl` commands iteratively — just like a human SRE would
 3. **Generates a voice alert** in English, Tamil, or Tanglish using Sarvam AI's TTS API, and uploads the audio directly to Slack
-4. **Sends a rich Slack notification** with full RCA, severity rating, and an interactive one-click fix button
+4. **Sends a rich Slack notification** with full RCA, severity rating, and an interactive one-click fix button 
 5. **Executes the approved fix** command (`kubectl delete`, `kubectl rollout restart`, etc.) when you click Approve in Slack
 6. **Monitors recovery** by polling the cluster every 15 seconds and reports back to the Slack thread
 7. **Saves documentation** as structured Markdown RCA files, organized by date
