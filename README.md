@@ -10,7 +10,7 @@
 
 
 ---
-
+ 
 ## 🔍 What is K8sHawk?
 
 **K8sHawk** is an end-to-end autonomous Kubernetes incident response system that I built to eliminate the manual toil of debugging Kubernetes cluster failures. When a pod crashes, fails to pull an image, runs out of memory, or hits any other common Kubernetes failure, K8sHawk automatically:
